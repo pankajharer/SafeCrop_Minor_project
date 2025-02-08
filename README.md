@@ -19,3 +19,12 @@ SafeCrop is a **comprehensive desktop application** designed to assist farmers i
 ```sh
 git clone https://github.com/your-username/SafeCrop.git
 cd SafeCrop
+```
+
+#### Screenshots
+![Screenshot 2023-03-17 135255](https://github.com/user-attachments/assets/4599f75b-4cdb-4b5f-8bfe-d43f785da593)
+![Screenshot 2023-03-17 145724](https://github.com/user-attachments/assets/26f982c3-1935-484d-86c1-f764041b5691)
+![Screenshot 2023-03-17 141117](https://github.com/user-attachments/assets/f83cdba5-d048-428e-8947-c3a939e41c85)
+
+
+
